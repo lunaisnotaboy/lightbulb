@@ -1,4 +1,4 @@
-# Lightbulb
+# Lightbulb [![CircleCI](https://img.shields.io/circleci/build/github/lunaisnotaboy/lightbulb)](https://circleci.com/gh/lunaisnotaboy/lightbulb)
 
 An implementation of RPG Maker XP's Ruby Game Scripting System.
 
